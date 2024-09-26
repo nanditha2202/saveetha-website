@@ -1,0 +1,41 @@
+.department {
+    max-width: 800px; 
+    margin: 40px auto; 
+    padding: 20px;
+    font-family: Arial, sans-serif; 
+  }
+  
+  .department h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center; 
+    color: #333; 
+  }
+  
+  .department table {
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-bottom: 20px; 
+  }
+  
+  .department thead {
+    background-color: #f0f0f0; 
+    border-bottom: 1px solid #ccc; 
+  }
+  .department th {
+    font-size: 16px; 
+    padding: 10px; 
+    text-align: left; 
+  }
+  
+  .department tbody tr {
+    border-bottom: 1px solid #ccc; 
+  }
+  
+  .department td {
+    font-size: 16px; 
+    padding: 10px; 
+    text-align: left;
+    align-items: center; 
+  }

@@ -1,0 +1,31 @@
+.container {
+    max-width: 800px; 
+    margin: auto;
+    padding: 20px;
+  }
+  .section {
+    margin-bottom: 30px; 
+  }
+  
+  .section h1 {
+    font-size: 24px; 
+    margin-bottom: 10px; 
+  }
+  
+  .section p {
+    line-height: 1.6; 
+  }
+  
+  .section ul {
+    list-style-type: disc;
+    padding-left: 20px; 
+  }
+  
+  .section ul li {
+    margin-bottom: 5px; 
+  }
+  
+  .highlight {
+    color: #0066ff; 
+    font-weight: bold;
+  }

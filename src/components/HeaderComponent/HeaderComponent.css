@@ -1,0 +1,27 @@
+/* HeaderComponent.css */
+
+.nav-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #f1ee24;
+    border-bottom: 1px solid #ccc;
+    
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #333;
+    transition: color 0.2s ease;
+    margin-right: 50px;
+  }
+  
+  .nav-links a:hover {
+    color: #666;
+  }
+  
+  .nav-links a.active {
+    color: #337ab7;
+    border-bottom: 2px solid #337ab7;
+  }
